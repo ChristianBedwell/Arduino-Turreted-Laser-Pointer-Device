@@ -34,7 +34,7 @@ The next step is to attach the male ends of the jumper wires to the breadboard. 
 
 Start by placing the pins of the HC-05 Bluetooth Module into the edge of the breadboard, parallel to the positive and negative power rails. When connecting the male ends of the jumper wires to the breadboard, make sure to connect the green jumper wire (TX) to RX, the blue jumper wire (RX) to TX, the black jumper wire (GND) to GND, and the red jumper wire (5V) to VCC. An illustration of these connections is provided below. If everything is done correctly, a blinking red LED will indicate that the HC-05 Bluetooth Module is powered up and ready to be paired with a client device.
 
-![Breadboard](images/breadboard.jpg?raw=true "Breadboard Resistor, Jumper Wire, and Bluetooth Module Placement")
+![Breadboard](images/breadboard.jpg "Breadboard Resistor, Jumper Wire, and Bluetooth Module Placement")
 
 Configuring the Device
 --------------------------------------------------------------
